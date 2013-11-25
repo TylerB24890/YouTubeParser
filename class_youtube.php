@@ -3,8 +3,6 @@
 /*********************************************************
  *
  *  		@project   YouTube URL Parser
- *		@author    Tyler Bailey
- *		@version   1.0
  *
  *		@desc	   This class contains functions for 
  *			   parsing YouTube Video URLS and getting the video information
